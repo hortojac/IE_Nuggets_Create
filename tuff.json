@@ -1,0 +1,51 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "minecraft:tuff"
+        }
+    ],
+    "results": [
+        {
+            "item": "minecraft:flint",
+            "chance": 0.25
+        },
+        {
+            "item": "minecraft:gold_nugget",
+            "chance": 0.1
+        },
+        {
+            "item": "create:copper_nugget",
+            "chance": 0.1
+        },
+        {
+            "item": "create:zinc_nugget",
+            "chance": 0.1
+        },
+        {
+            "item": "minecraft:iron_nugget",
+            "chance": 0.1
+        },
+        {
+            "item": "immersiveengineering:nugget_aluminum",
+            "chance": 0.1
+        },
+        {
+            "item": "immersiveengineering:nugget_lead",
+            "chance": 0.1
+        },
+        {
+            "item": "immersiveengineering:nugget_silver",
+            "chance": 0.1
+        },
+        {
+            "item": "immersiveengineering:nugget_nickel",
+            "chance": 0.1
+        },
+        {
+            "item": "immersiveengineering:nugget_uranium",
+            "chance": 0.1
+        }
+    ],
+    "processingTime": 350
+}
